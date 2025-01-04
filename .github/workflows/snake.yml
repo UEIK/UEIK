@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 120
 
     steps:
       - name: generate snake.svg
