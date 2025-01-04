@@ -3,7 +3,7 @@
 
 " /> -->
 
-<h2 align="center">Hi 👋, HO THUAN KIEU CUTE NE</h2>
+<h2 align="center">Hi 👋, HO THUAN KIEU NE</h2>
 <p align="center">
   <h3 align="center">PTIT HCM </h3>
 </p>
