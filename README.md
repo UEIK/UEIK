@@ -41,5 +41,7 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/UEIK/UEIK/output/snake.svg" alt="Snake animation" />
 
+###
 
