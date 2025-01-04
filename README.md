@@ -1,13 +1,12 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://github.com/TienNHM.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
+<!-- <img align="right" width="64" src="![Uploading image.png…]()
+" /> -->
 
 <h2 align="center">Hi 👋, HO THUAN KIEU CUTE NE</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">PTIT HCM </h3>
 </p>
-
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
 
 <br />
 
